@@ -223,7 +223,7 @@ Watch the complete API validation video showing all endpoints running successful
 - ✅ Successful user profile retrieval
 - ✅ All API responses in Postman
 
-[📥 Download Video](../postman-validation.mp4)
+[📥 Download Video](./postman-validation.mp4)
 
 ### Setup
 
