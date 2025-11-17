@@ -1,0 +1,17 @@
+# environment 
+my_app
+sample.py
+
+# Python
+__pycache__/
+
+
+# IDE
+.vscode/
+
+
+
+# FastAPI
+.pytest_cache/
+
+
