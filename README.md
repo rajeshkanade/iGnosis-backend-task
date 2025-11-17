@@ -244,7 +244,7 @@ Watch the complete API validation video showing all endpoints running successful
      - `lname`: `Kanade`
 
 4. **API Postman Validate Successfully**
-    [Watch video](/postman-validation.png)
+    [Image](/postman-validation.png)
 
 ### Test Workflow
 
