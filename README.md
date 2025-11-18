@@ -26,7 +26,6 @@ This API implements a complete authentication system with:
 ```
 backend-python/
 ├── app/
-│   ├── __init__.py
 │   ├── config.py                 # Configuration and secrets
 │   ├── main.py                   # FastAPI application and endpoints
 │   ├── users.json                # User data storage
